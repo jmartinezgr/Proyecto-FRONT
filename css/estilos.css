@@ -1,0 +1,29 @@
+
+.columna{
+   background-color: #F0EABE;
+   color: #3B9AE1;
+   padding: 20px;
+   width: 25%;
+   margin: 10px;
+}
+
+nav{
+    background-color: salmon;
+}
+
+
+.father{
+    display:flex;
+}
+
+.nav-link{
+    display: inline-block;
+    background-color: salmon;
+    color: #fff;
+    padding: 10px 30px;
+    text-decoration:none;
+}
+
+.nav-link:hover{
+    background-color: rosybrown;
+} 
